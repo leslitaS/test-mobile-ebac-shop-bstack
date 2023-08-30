@@ -1,0 +1,8 @@
+app/android
+.npm
+node_modules
+.allure
+allure-report/*
+allure-results/*
+report/*
+.cache/
